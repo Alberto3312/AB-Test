@@ -1,5 +1,5 @@
 # AB-Test
-Este proyecto tiene como objetivo analizar el comportamiento del usuario en la aplicación móvil de una empresa emergente de venta de productos alimenticios. Se enfoca en dos áreas clave: el embudo de ventas para entender el viaje del usuario hacia la compra y la evaluación de un test A/A/B sobre un cambio de diseño de fuentes.
+Este proyecto del Bootcampo de TripleTen tiene como objetivo analizar el comportamiento del usuario en la aplicación móvil de una empresa emergente de venta de productos alimenticios. Se enfoca en dos áreas clave: el embudo de ventas para entender el viaje del usuario hacia la compra y la evaluación de un test A/A/B sobre un cambio de diseño de fuentes.
 
 Objetivos:
 - Determinar el flujo de interacción de los usuarios, desde el primer contacto hasta la etapa de compra.
