@@ -8,3 +8,5 @@ Objetivos:
 -Evaluar el Test A/A/B de Fuentes:
   -Comparar los dos grupos de control (A/A) para asegurar la validez del experimento y la homogeneidad de la muestra.
   -Determinar si el nuevo diseño de fuentes (Grupo B) tiene un impacto estadísticamente significativo (positivo o negativo) en las métricas clave de la aplicación en comparación con los grupos de control.
+
+Se usaron librerias de python como pandas, matplotlib.pyplot, scipy - stats, numpy, math, statsmodels.stats.proportion - proportions_ztest. El proyecto se ejecuta en Jupyter Notebooks.
